@@ -35,6 +35,9 @@ Instantiate the server with Node-RED
     ### **WORK IN PROGRESS**
 -->
 ## Changelog
+### **WORK IN PROGRESS**
+- (klein0r) Update node-red to 4.0.0
+
 ### 5.2.1 (2024-04-27)
 
 - (Apollon77) Update node-red to 3.1.9 to fix execution on windows
